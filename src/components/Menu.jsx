@@ -9,7 +9,7 @@ function Menu({ menu, cart, setCart }) {
     return (
       <div style={{ textAlign: "center", margin: "80px" }}>
         {" "}
-        메뉴 정보가 없어요!
+        메뉴 정보가 없어요!!
       </div>
     );
 
